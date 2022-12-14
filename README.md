@@ -14,5 +14,10 @@ NOTE: To implement this tutorial you should be using the ANACONDA python distrib
 ```python
 import streamlit as st
 ```
+3. Next, copy the code from this link: https://github.com/babs2023/streamlit_stockprice/blob/main/stockprice.py and make any necessay changes. You can change the ticker symbol to that of any organization you which to view their stock price.
+4.  To deloy your code as a streamlit web application, go to the anaconda command promopt, change the directory to the directory where your python script is saved and run the follwing command:
+```
+c:\directory>streamlit run <file.py>
+```
 
 
