@@ -20,5 +20,6 @@ import streamlit as st
 c:\directory>streamlit run <file.py>
 ```
 5. Streamlit will launch your application through your browser at the same time providing a local URL plus a network URL.
-6. The final  
+6. The final result should like the screenshot below:
+<img src = "https://github.com/babs2023/streamlit_stockprice/blob/main/screenshoot.png">
 
