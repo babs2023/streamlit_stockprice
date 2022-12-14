@@ -37,12 +37,12 @@ tickerDF = ticker_data.history(period="1mo",
 #columns: Open, High, Low Close, Volume, Dividends and Stock Splits
 
 st.write("""
-         ## Stock Closing Price
+         ## Stock Closing Price in USD
          """    )
 st.line_chart(tickerDF.Close)
 
 st.write("""
-         ## Stock Volume
+         ## Stock Volume in USD
          """    )
 st.line_chart(tickerDF.Volume)
 
