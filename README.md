@@ -19,5 +19,6 @@ import streamlit as st
 ```
 c:\directory>streamlit run <file.py>
 ```
-
+5. Streamlit will launch your application through your browser at the same time providing a local URL plus a network URL.
+6. The final  
 
